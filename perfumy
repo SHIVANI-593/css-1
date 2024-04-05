@@ -1,0 +1,118 @@
+//index.html
+
+<html>
+    <head><link rel="stylesheet" href="style.css"> </head>
+<body>
+<div class="header">
+    <nav>
+        <h1>Perfumy</h1>
+    <ul>
+        <li>Home|</li>
+        <li>Products|</li>
+        <li>About us|</li>
+        <li>Contact us</li>
+    </ul>
+    </nav>
+</div>
+
+<div class="searchbar">
+    <input placeholder="search">
+</div>
+
+<div class="products">
+    <div class="box">
+        <img src="https://source.unsplash.com/220x200/?1">
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro cupiditate animi neque quod quidem veniam et atque laborum pariatur a vel adipisci, nobis exercitationem possimus assumenda molestiae. Ab modi cumque doloribus aut sequi soluta ex tenetur vel odit voluptatum quidem incidunt velit ipsum, commodi cupiditate et, quo laboriosam, debitis beatae.</p>
+    </div>
+
+    <div class="box">
+      <img src="https://source.unsplash.com/220x200/?2">
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro cupiditate animi neque quod quidem veniam et atque laborum pariatur a vel adipisci, nobis exercitationem possimus assumenda molestiae. Ab modi cumque doloribus aut sequi soluta ex tenetur vel odit voluptatum quidem incidunt velit ipsum, commodi cupiditate et, quo laboriosam, debitis beatae.</p>        
+    </div>
+
+    <div class="box">
+        <img src="https://source.unsplash.com/220x200/?3">
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro cupiditate animi neque quod quidem veniam et atque laborum pariatur a vel adipisci, nobis exercitationem possimus assumenda molestiae. Ab modi cumque doloribus aut sequi soluta ex tenetur vel odit voluptatum quidem incidunt velit ipsum, commodi cupiditate et, quo laboriosam, debitis beatae.</p>        
+    </div>
+
+</div>
+
+
+<div class="About">
+    <h1 style="text-align:center;">About us</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe quas suscipit voluptatum dolore excepturi magni delectus necessitatibus odio itaque. Corporis eaque officia ut consectetur ad commodi esse rem doloremque nesciunt sint totam, enim voluptatibus fugiat repudiandae quasi unde laudantium sit recusandae facere maxime animi quaerat quo quibusdam eum. Dignissimos facere mollitia quasi nesciunt ipsa aliquam? Ea, assumenda consequatur, odit beatae obcaecati omnis, magni blanditiis vero doloremque deleniti et corrupti! Corrupti, consequuntur corporis explicabo repudiandae magnam earum. Quia inventore deserunt aperiam mollitia fuga, ad cum vel sit quidem, enim ipsam eaque ex numquam cupiditate temporibus perspiciatis saepe impedit laudantium nam. Quos corporis, rerum omnis tempora assumenda exercitationem quod. Dolor maiores nesciunt saepe consectetur est, rerum vitae doloribus animi labore obcaecati incidunt dolores enim ab quibusdam quidem exercitationem ad aspernatur natus? Iure tenetur eaque natus necessitatibus minus odio quisquam recusandae autem in sed distinctio, laborum hic deserunt molestiae molestias consequatur repellat numquam quasi velit! Illo, distinctio unde esse est vitae suscipit ab numquam repudiandae totam necessitatibus ea, reiciendis molestias! Ex veniam molestiae est excepturi? Sunt, ab. Amet quidem necessitatibus laborum quam deleniti quae molestias ut distinctio veritatis! Sint velit maiores numquam saepe debitis animi laudantium quam temporibus commodi possimus voluptas, rem optio.</p>
+</div>
+
+<div class="contact">
+    <h3>Contact us</h3>
+    <p>+91 3478631928</p>
+    <p>perfumyAgmail.com</p>
+    <h6 style="margin-top:30px;font:10px;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. In, consectetur quo. Nam impedit consequuntur odio quo fuga beatae architecto soluta voluptatem accusamus consequatur maxime, illum qui vitae nisi asperiores, natus vero minima aspernatur deleniti est dolores fugiat doloremque totam. Dolor officiis iure voluptates, corrupti eum in nostrum aliquid quam voluptatem ab ad provident similique incidunt possimus saepe tenetur? Beatae consequatur dolores dolorum? Ex fuga mollitia, eligendi rerum molestias hic voluptas! Explicabo earum perspiciatis, voluptates eveniet, tempora obcaecati amet, vitae error sapiente minima repudiandae repellendus. Est sint quae, similique officia, alias debitis deserunt placeat, blanditiis soluta expedita doloribus laboriosam dolor id reiciendis voluptate? Sapiente laboriosam repellat aspernatur reiciendis harum error inventore dignissimos dolorum fugit quam! Accusantium nemo illo error labore, temporibus atque nostrum cupiditate expedita ratione quam asperiores adipisci. Facere, atque quaerat ratione velit distinctio ut beatae minus ex, labore commodi sequi minima accusantium aut veniam illum natus unde, veritatis possimus voluptas tempora esse consequatur obcaecati illo? Corporis quidem ipsam laborum sint facilis libero ea atque pariatur voluptas quos? Blanditiis, modi asperiores repudiandae cumque vero cum quas alias qui eaque molestias ipsam sapiente, ea officiis neque sequi corporis quam, totam explicabo aut laborum. Rerum nulla omnis, doloremque quam iste distinctio recusandae rem commodi nesciunt vel repellendus inventore itaque nisi mollitia minus quas aspernatur dolor ipsa ea perspiciatis quis! Ipsam optio labore explicabo id numquam voluptas eius, eaque illo vero rerum beatae quia architecto. Repellat illum exercitationem magnam doloremque at natus porro fuga ut vitae nemo. Iure doloremque praesentium laboriosam assumenda dolor nam quaerat veniam tenetur fugiat magnam vero illum nostrum quibusdam necessitatibus eos obcaecati hic illo temporibus quasi deserunt, doloribus architecto. Quo magnam hic fuga asperiores aliquid nesciunt sequi beatae voluptate earum, fugiat dignissimos veritatis, laborum distinctio harum exercitationem delectus eum vero necessitatibus, obcaecati aspernatur nulla? Asperiores voluptates impedit obcaecati, quis voluptatibus laborum eveniet earum deleniti voluptatem aut. Eum eveniet minus itaque qui mollitia laudantium blanditiis nihil praesentium ea amet aliquam illum culpa ducimus natus perferendis provident velit quam nostrum a quidem, ut corporis optio. Earum placeat dolores nihil, non molestiae vel culpa laudantium nostrum, exercitationem quibusdam tempore, quam laboriosam iste consequuntur corrupti debitis incidunt ea dicta ducimus? Non, blanditiis molestiae dignissimos iure sed pariatur, natus labore exercitationem consectetur amet minus! Deserunt quidem numquam asperiores fugiat voluptate odio autem natus excepturi iusto repudiandae quaerat itaque veniam, inventore repellat enim nulla voluptatibus voluptas, aliquam quas harum expedita recusandae minima! Iste, velit! Itaque est iste asperiores fugit a? Suscipit necessitatibus fuga hic porro, architecto labore quasi temporibus nisi est deleniti error cupiditate quibusdam iusto, perspiciatis accusantium provident. Magnam, quos? Autem reiciendis facilis architecto numquam ut sapiente quod ea suscipit tenetur laboriosam mollitia vitae, ratione corporis delectus nobis aperiam ducimus saepe aspernatur exercitationem sunt possimus debitis! Eos vero ipsum saepe dolore voluptatibus maiores at in numquam voluptates quod itaque recusandae ducimus ab, ipsa neque nobis reiciendis corrupti! Magni provident et non distinctio cupiditate qui? Nesciunt quis repudiandae asperiores consequatur dolorum expedita vitae reiciendis nihil similique, error esse architecto ratione officia maiores facere numquam assumenda!</h6>
+</div>
+</body>
+</html>
+
+
+//style.css
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+        background-color: black;
+        color:white;
+        padding: 20px;
+    }
+    li,ul,h1{
+        display:inline;
+    }
+    ul{
+        margin: 60%;
+    }
+    li{
+        color: grey;
+        cursor:pointer;
+    }
+    li:hover{
+        color:white;
+    }
+
+    input{
+        width:60%;
+        padding:15px;
+    }
+    .searchbar{
+        text-align: center;
+        padding: 50px;
+    }
+
+    .box{
+        border-color: black;
+        border-width: 2px;
+        border-style: solid;
+        display: inline-block;
+        width:220px;
+    }
+
+    .products{
+        text-align: center;
+    }
+
+    .About{
+        text-align: center;
+        padding:20px;
+        color:magenta;
+    }
+    
+    .contact{
+        text-align: center;
+        background-color: black;
+        color: white;
+        padding: 40px;
+    }
+
+    h6:hover{
+                color:blue;
+    }
